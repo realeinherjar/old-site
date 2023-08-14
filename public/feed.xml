@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Einherjar</title><link>https://realeinherjar.github.io</link><description>Einherjar&apos;s Blog</description><language>english</language><item><title>Hello World</title><link>https://realeinherjar.github.io/blog//blog/hello/</link><description><![CDATA[How I created this website]]></description><author>Einherjar</author><category>Tech</category><pubDate>Sun, 13 Aug 2023 18:10:00 GMT</pubDate><source url="https://realeinherjar.github.io">Einherjar</source><content:encoded><![CDATA[<h1 id="hello-world">Hello World</h1>
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Einherjar</title><link>https://realeinherjar.github.io/old-site</link><description>Einherjar&apos;s Blog</description><language>english</language><item><title>Hello World</title><link>https://realeinherjar.github.io/old-site/blog//blog/hello/</link><description><![CDATA[How I created this website]]></description><author>Einherjar</author><category>Tech</category><pubDate>Sun, 13 Aug 2023 18:10:00 GMT</pubDate><source url="https://realeinherjar.github.io/old-site">Einherjar</source><content:encoded><![CDATA[<h1 id="hello-world">Hello World</h1>
 <p>This is the first blog entry in the blog.</p>
 <p>I am building this blog using <a
 href="https://dioxuslabs.com">Dioxus</a> in Rust. This is hosted on <a
-href="https://github.com/realeinherjar/realeinherjar.github.io">Github</a>.
+href="https://github.com/realeinherjar/old-site">Github</a>.
 Feel free to check the code.</p>
 <p>The RSS feed is generated using the <a
 href="https://github.com/rust-syndication/rss"><code>rss</code>

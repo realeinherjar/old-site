@@ -30,7 +30,7 @@ mod utils {
     pub mod rss;
 }
 
-const URL: &str = "https://realeinherjar.github.io";
+const URL: &str = "https://realeinherjar.github.io/old-site";
 const AUTHOR: &str = "Einherjar";
 
 fn main() {
